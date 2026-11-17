@@ -1,0 +1,14 @@
+profile:
+  name: ""
+  city: Pune
+  target_roles:
+    - Data Analyst
+    - Junior Analyst
+safety:
+  dry_run: true
+  daily_application_cap: 25
+storage:
+  database_path: data/job_copilot.db
+logging:
+  level: INFO
+  file_path: logs/job-copilot.log

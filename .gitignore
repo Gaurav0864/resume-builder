@@ -1,0 +1,12 @@
+.env
+config.yaml
+data/
+logs/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+master_resume.md
+*.pdf
+*.docx
+*.xlsx
